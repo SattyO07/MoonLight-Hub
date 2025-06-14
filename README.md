@@ -7,6 +7,11 @@ By **Satty007**
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/SattyO07/MoonLight-Hub/refs/heads/main/Games/Mm2.lua"))()
 ```
 
+> Forsaken
+```lua
+Working Progress.
+```
+
 ## Supported Games:
 - **Murder Mystery 2**
   - Aimbot  

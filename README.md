@@ -1,4 +1,4 @@
-# 🌙 MoonLight Hub — V2.1.5  
+# 🌙 MoonLight Hub
 By **Satty007**
 
 ## 📜 Loadstring  
